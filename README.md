@@ -1,5 +1,9 @@
 ### What'up! I'm Heitor! :ghost:
 
+You can also find me here:
+
+[![LinkedInBadge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/heitor-de-melo-cardozo)](https://www.linkedin.com/in/heitor-de-melo-cardozo)
+
 ---
 
 #### I'm a hardworking and passionate Network engineering student based on Brasília - Distrito Federal 🎓
