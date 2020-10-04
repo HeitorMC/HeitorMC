@@ -9,7 +9,7 @@ You can also find me here:
 #### I'm a hardworking and passionate Network engineering student based on Brasília - Distrito Federal 🎓
 
 - Working as Network Analyst at [GlobalWeb](https://www.globalweb.com.br/).
-- Seeking relocation in the development and DevOps area. :cloud::gear:
+- Seeking relocation in the software development and DevOps area. :cloud::gear:
 - I speak portuguese and english.
 - Recently I took a seat in the [Rocketseat](https://rocketseat.com.br/) in search of new technologies . 🚀
 - 📫 Reach me: heitor711n@gmail.com
