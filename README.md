@@ -6,10 +6,9 @@ You can also find me here:
 
 ---
 
-#### I'm a hardworking and passionate Network engineering student based on Brasília - Distrito Federal 🎓
+#### I'm a hardworking and passionate Network Engineer based on Brasília - Distrito Federal 🎓
 
-- Working as Network Administrator  at [Vernet - Comunicação de dados](http://www.vernet.com.br/).
-- Seeking relocation in the software development and DevOps area. :cloud::gear:
-- I speak portuguese and english.
+- Trainee Developer at [Codeminer42](https://www.codeminer42.com/); 👷⛏️
+- Portuguese is my native language, but I can speak English too. 
 - Recently I took a seat in the [Rocketseat](https://rocketseat.com.br/) in search of new technologies . 🚀
 - 📫 Reach me: heitor711n@gmail.com
