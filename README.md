@@ -1,4 +1,4 @@
-### What'up! I'm Heitor! :ghost:
+### Hello there! I'm Heitor! :ghost:
 
 You can also find me here:
 
