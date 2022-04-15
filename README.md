@@ -8,7 +8,8 @@ You can also find me here:
 
 #### I'm a hardworking and passionate Network Engineer based on Brasília - Distrito Federal 🎓
 
-- Trainee Developer at [Codeminer42](https://www.codeminer42.com/); 👷⛏️
+- Trainee Developer at [Codeminer42](https://www.codeminer42.com/) 👷⛏️
 - Portuguese is my native language, but I can speak English too. 
-- Recently I took a seat in the [Rocketseat](https://rocketseat.com.br/) in search of new technologies . 🚀
+- Working daily with Ruby on Rails, Docker and Kubernetes.
+- I love when assigned to cloud/infraestructure/devops tasks.
 - 📫 Reach me: heitor711n@gmail.com
