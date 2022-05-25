@@ -16,4 +16,10 @@ You can also find me here:
 
 ## Contributions to Open Source Software 🗺️🖥️
 I just started with the OSS contributions, but hopefully one day there will be too many to fit on a list.
-  * Comarev API: [#91](https://github.com/comarev/comarev/pull/99)
+  - [Ruby on Rails] Comarev API:
+    - [#91](https://github.com/comarev/comarev/pull/99)
+  - [Ruby on Rails] CASA: 
+    - [#3344](https://github.com/rubyforgood/casa/issues/3344)
+    - [#3378](https://github.com/rubyforgood/casa/issues/3378)
+  - [Ruby on Rails] Punchclock:
+    - [#109](https://github.com/Codeminer42/Punchclock/issues/109)
