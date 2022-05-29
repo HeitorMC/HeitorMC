@@ -8,10 +8,11 @@ You can also find me here:
 
 #### I'm a hardworking and passionate Network Engineer based on Brasília - Distrito Federal 🎓
 
-- Trainee Developer at [Codeminer42](https://www.codeminer42.com/) 👷⛏️
+- Currently working as a Back-end Software Engineer at [Codeminer42](https://www.codeminer42.com/) 👷⛏️
 - Portuguese is my native language, but I can speak English too. 
 - Working daily with Ruby on Rails, Docker and Kubernetes.
 - I love when assigned to cloud/infraestructure/devops tasks.
+- Currently studying: **Node.js** and **typescript**
 - 📫 Reach me: heitor711n@gmail.com
 
 ## Contributions to Open Source Software 🗺️🖥️
