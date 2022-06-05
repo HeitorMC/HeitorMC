@@ -6,7 +6,7 @@ You can also find me here:
 
 ---
 
-#### I'm a hardworking and passionate Network Engineer based on Brasília - Distrito Federal 🎓
+#### I'm a hardworking and passionate Network Engineer based on Brasília - Brazil
 
 - Currently working as a Back-end Software Engineer at [Codeminer42](https://www.codeminer42.com/) 👷⛏️
 - Portuguese is my native language, but I can speak English too. 
