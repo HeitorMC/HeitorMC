@@ -10,7 +10,7 @@ You can also find me here:
 
 - Formerly a network engineer but I found out that software is my passion;
 - Portuguese is my native language, but I can speak English too;
-- Working daily with NodeJS, Typescript, Express, NestJs;
+- Working daily with NodeJS, Typescript and backend frameworks like Express and NestJs;
 - I love when assigned to devops and blockchain tasks;
 - Currently studying: **Node.js** and **typescript**
 - 📫 Reach me: heitor711n@gmail.com
