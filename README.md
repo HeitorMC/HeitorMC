@@ -8,11 +8,11 @@ You can also find me here:
 
 #### I'm a hardworking and passionate Software Engineer based on Brasília - Brazil
 
-- Formerly a network engineer but I found out that software is my passion;
+- Formerly a network engineer but I found out that software engineering is my passion;
 - Portuguese is my native language, but I can speak English too;
-- Working daily with NodeJS, Typescript and backend frameworks like Express and NestJs;
-- I love when assigned to devops and blockchain tasks;
-- Currently studying: **Node.js** and **typescript**
+- Working daily with Ruby, NodeJS, Typescript, Docker and backend frameworks like Ruby on Rails, Express, and NestJs;
+- I love when assigned to devops tasks;
+- Currently studying: **Golang** and **Ruby on Rails**
 - 📫 Reach me: heitor711n@gmail.com
 
 ## Contributions to Open Source Software 🗺️🖥️
@@ -24,3 +24,7 @@ I just started with the OSS contributions, but hopefully one day there will be t
     - [#3378](https://github.com/rubyforgood/casa/issues/3378)
   - [Ruby on Rails] Punchclock:
     - [#109](https://github.com/Codeminer42/Punchclock/issues/109)
+    - [#245](https://github.com/Codeminer42/Punchclock/issues/245)
+    - [#305](https://github.com/Codeminer42/Punchclock/issues/305)
+    - [#307](https://github.com/Codeminer42/Punchclock/issues/307)
+    - [#311](https://github.com/Codeminer42/Punchclock/issues/311)
