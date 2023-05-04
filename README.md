@@ -29,3 +29,7 @@ I just started with the OSS contributions, but hopefully one day there will be t
     - [#305](https://github.com/Codeminer42/Punchclock/issues/305)
     - [#307](https://github.com/Codeminer42/Punchclock/issues/307)
     - [#311](https://github.com/Codeminer42/Punchclock/issues/311)
+  - [Ruby on Rails] Mastodon:
+    - [#23919](https://github.com/mastodon/mastodon/issues/23919)
+    - [#23549](https://github.com/mastodon/mastodon/issues/23549)
+  
