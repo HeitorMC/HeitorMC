@@ -6,14 +6,14 @@ You can also find me here:
 
 ---
 
-#### I'm a hardworking and passionate Software Engineer based on Brasília - Brazil
+#### I'm a hardworking and passionate Software Engineer based in Brasília - Brazil
 
 - Formerly a network engineer but I found out that software engineering is my passion;
 - Portuguese is my native language, but I can speak English too;
-- Working daily with Ruby, NodeJS, Typescript, Docker and backend frameworks like Ruby on Rails, Express, and NestJs;
-- Skiled in automated tests and used with the following test libraries: RSpec, Mocha, and Jest
-- I love when assigned to devops tasks;
-- Currently studying: **React** and **Ruby on Rails**
+- Working daily with Ruby, NodeJS, Typescript, Docker, and backend frameworks like Ruby on Rails, Express, and NestJs;
+- Skilled in automated tests and used with the following test libraries: RSpec, Mocha, and Jest
+- I love when assigned to DevOps tasks;
+- Currently studying: **React** and **Go**
 - 📫 Reach me: heitor711n@gmail.com
 
 ## Contributions to Open Source Software 🗺️🖥️
