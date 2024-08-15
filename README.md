@@ -1,4 +1,4 @@
-### Hello there! I'm Heitor! :ghost:
+### I'm Heitor! 
 
 You can also find me here:
 
@@ -9,27 +9,7 @@ You can also find me here:
 #### I'm a hardworking and passionate Software Engineer based in Brasília - Brazil
 
 - I was formerly a network engineer but I found out that software engineering is my passion;
-- Portuguese is my native language, but I can speak English too;
 - Working daily with Ruby, NodeJS, Typescript, Docker, and backend frameworks like Ruby on Rails, Express, and NestJs;
 - Skilled in automated tests and used with the following test libraries: RSpec, Mocha, and Jest
-- I love being assigned to DevOps tasks;
-- Currently studying: **Go**
 - 📫 Reach me: heitor711n@gmail.com
-
-## Contributions to Open Source Software 🗺️🖥️
-I just started with the OSS contributions, but hopefully one day there will be too many to fit on a list.
-  - [Ruby on Rails] Comarev API:
-    - [#91](https://github.com/comarev/comarev/pull/99)
-  - [Ruby on Rails] CASA: 
-    - [#3344](https://github.com/rubyforgood/casa/issues/3344)
-    - [#3378](https://github.com/rubyforgood/casa/issues/3378)
-  - [Ruby on Rails] Punchclock:
-    - [#109](https://github.com/Codeminer42/Punchclock/issues/109)
-    - [#245](https://github.com/Codeminer42/Punchclock/issues/245)
-    - [#305](https://github.com/Codeminer42/Punchclock/issues/305)
-    - [#307](https://github.com/Codeminer42/Punchclock/issues/307)
-    - [#311](https://github.com/Codeminer42/Punchclock/issues/311)
-  - [Ruby on Rails] Mastodon:
-    - [#23919](https://github.com/mastodon/mastodon/issues/23919)
-    - [#23549](https://github.com/mastodon/mastodon/issues/23549)
   
