@@ -2,7 +2,8 @@
 - My name is Heitor and I'm a Software Engineer & Web Developer based in Brasília - Brazil;
 - I was formerly a network engineer but I found out that software engineering is my passion;
 - Working daily with Ruby, NodeJS, Typescript, Docker, and backend frameworks like Ruby on Rails, Express, and NestJs;
-- Skilled in automated tests and used with the following test libraries: RSpec, Mocha, and Jest
+- Skilled in automated tests and used with the following test libraries: RSpec, Mocha, and Jest;
+- Trying to migrate from vscode to nvim 😬
 - 📫 Reach me: [heitor711n@gmail.com](mailto:heitor711n@gmail.com)
   
 ## Skills
