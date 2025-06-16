@@ -1,6 +1,5 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - My name is Heitor, and I'm a Software Engineer & Web Developer based in Brazil;
-- I was formerly a network engineer, but I found out that software engineering is my passion;
 - Working daily with Ruby, NodeJS, Typescript, Docker, and backend frameworks like Ruby on Rails, Express, and NestJs;
 - Skilled in automated tests and used with the following test libraries: RSpec, Mocha, and Jest;
 - Currently grinding some Golang knowledge and experience 💪
