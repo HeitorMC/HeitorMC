@@ -1,9 +1,8 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - I'm Heitor, a Software Engineer and Web Developer based in Brazil.
-- Working daily with Ruby, NodeJS, Typescript, Docker, and backend frameworks like Ruby on Rails, Express, and NestJs;
+- Working daily with Ruby, NodeJS, Typescript, Docker, and backend frameworks like Ruby on Rails, Express, and NestJS;
 - Skilled in automated tests and used with the following test libraries: RSpec, Mocha, and Jest;
 - I am currently exploring Golang in depth;
-- Trying to migrate from VS Code to nvim 😬
 - 📫 Reach me: [heitor711n@gmail.com](mailto:heitor711n@gmail.com)
   
 ## Skills
