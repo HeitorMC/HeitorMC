@@ -1,7 +1,7 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - I'm Heitor, a Software Engineer and Web Developer based in Brazil.
-- Working daily with Ruby, NodeJS, Typescript, Docker, and backend frameworks like Ruby on Rails, Express, and NestJS;
-- Skilled in automated tests and used with the following test libraries: RSpec, Mocha, and Jest;
+- Working daily with Ruby, Typescript, Docker, and backend frameworks like Ruby on Rails and Adonis;
+- Skilled in automated tests and used with the following test libraries: RSpec, Vitest, and Jest;
 - I am currently exploring Golang in depth;
 - 📫 Reach me: [heitor711n@gmail.com](mailto:heitor711n@gmail.com)
   
@@ -9,7 +9,7 @@
 
 <p align="left">
   
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,jest,ruby,rails,golang,postgres,sqlite,mongodb,dynamodb,heroku,aws&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,golang,ts,nodejs,express,adonis,react,nextjs,vitest,jest,postgres,sqlite,mongodb,dynamodb,heroku,aws,terraform&perline=7)](https://skillicons.dev)
 
 </p>
 
